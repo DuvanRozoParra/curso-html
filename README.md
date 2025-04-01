@@ -2,7 +2,19 @@
 
 Implementa este documento HTML cumpliendo con los requisitos técnicos para pasar las pruebas de Vitest.
 
----
+- para iniciar el testing ingresa en la terminal
+
+```powershell
+npm run test:start
+```
+
+- para visualizar el proyecto
+
+```powershell
+npm run dev
+```
+
+## Nota: recuerda tener instalado Node.
 
 ## 🎯 OBJETIVOS PRINCIPALES
 
